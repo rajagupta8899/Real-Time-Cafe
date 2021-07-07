@@ -1,0 +1,46 @@
+[{
+  "name": "Cheese Burger",
+  "image": "burger1.jpg",
+  "price": "100",
+  "size": "Medium"
+},{
+  "name": "Chicken Burger",
+  "image": "burger2.jpg",
+  "price": "100",
+  "size": "Medium"
+},{
+  "name": "Fruit Sandwich",
+  "image": "fruitsandwich.jpg",
+  "price": "150",
+  "size": "Medium"
+},{
+  "name": "Steak Sandwich",
+  "image": "steaksandwich.jpg",
+  "price": "150",
+  "size": "Medium"
+},{
+  "name": "Grilled Cheese Sandwich",
+  "image": "grilledsandwich.jpg",
+  "price": "200",
+  "size": "Medium"
+},{
+  "name": "Coffee",
+  "image": "cofe.jpg",
+  "price": "100",
+  "size": "Medium"
+},{
+  "name": "Tea",
+  "image": "tea.jpg",
+  "price": "80",
+  "size": "Medium"
+},{
+  "name": "7UP",
+  "image": "7up.jpg",
+  "price": "100",
+  "size": "260ml"
+},{
+  "name": "Cococola",
+  "image": "cococola.jpg",
+  "price": "100",
+  "size": "260ml"
+}]
